@@ -1,0 +1,65 @@
+<style>
+
+  #main{
+    font-family: sans-serif;
+  }
+
+  .header{
+    text-align: center;
+  }
+
+  .container{
+    background-color: rgb(238, 238, 238);
+    
+  }
+
+  #title{
+    padding-top: 5%;
+
+  }
+  #img-div{
+    background-color: white;
+    
+  }
+
+ #image{
+   display: block;
+   max-width: 50%;
+   height: auto;
+    position: relative;
+    padding: 5% 25% 1% 25%;
+    
+ }
+
+ #img-caption{
+    text-align: center;
+    padding-bottom: 1%;
+  }
+
+#timeline-text{
+   padding-top: 5%;
+   text-align: center;
+ }
+
+ .tribute-div{
+   border: 50px;
+   padding: 0% 30% 5% 30%;
+ }
+
+ #tribute-info{
+   display: flex;
+   align-items: center;
+ }
+
+ #comment-text{
+   text-align: center;
+  padding: 0% 25% 5% 25%;
+ }
+
+ #bottom-text{
+   text-align: center;
+   padding-bottom: 3%;
+   font-size: larger;
+ }
+
+</style>
